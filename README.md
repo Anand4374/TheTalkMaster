@@ -1,2 +1,3 @@
-# TheTalkMaster
-"TheTalkMaster: Seamlessly convert text to speech. Experience natural, high-quality audio synthesis. Elevate your content with lifelike voices and effortless communication."
+# Speech-Synthesis
+A speech synthesizer which converts written text into speech
+This will take text as input and coverts is into speech.
